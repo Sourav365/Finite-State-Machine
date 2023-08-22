@@ -32,3 +32,10 @@ present state is synchronous.
 
 So o/p will also be synchronous for all the cases.
 
+O/p is same for both case
+
+![image](https://github.com/Sourav365/Finite-State-Machine/assets/49667585/5b94b92f-d065-467a-a2c9-5cf356de1a37)
+
+![image](https://github.com/Sourav365/Finite-State-Machine/assets/49667585/8474b0f8-4616-4714-9c39-2bc96d68c1c7)
+
+
