@@ -24,7 +24,7 @@ I/p glitch --> No output glitch.
 
 **Best way is to separate sequential and combinational ckt to reduce number of FF.**
 
-## Moo mchine
+## Moore mchine
 
 Here, output depents on present state only, not on i/p.
 
