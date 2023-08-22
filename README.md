@@ -20,3 +20,15 @@ Output will be synchronous
 I/p glitch --> No output glitch.
 
 ![image](https://github.com/Sourav365/Finite-State-Machine/assets/49667585/37539262-4c99-4c69-a88f-391772abf5f7)
+
+
+**Best way is to separate sequential and combinational ckt to reduce number of FF.**
+
+## Moo mchine
+
+Here, output depents on present state only, not on i/p.
+
+present state is synchronous.
+
+So o/p will also be synchronous for all the cases.
+
