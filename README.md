@@ -1,5 +1,7 @@
 # Finite-State-Machine
 
+***Best see this example ```https://github.com/Sourav365/SPI_Protocol_for_FPGA/blob/main/rtl_code/spi_control.v```
+
 ## Mealy mchine
 
 If we separate sequential and combinational ckt, Flipflops will be created only for the stages.
