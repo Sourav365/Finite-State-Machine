@@ -39,3 +39,9 @@ O/p is same for both case
 ![image](https://github.com/Sourav365/Finite-State-Machine/assets/49667585/8474b0f8-4616-4714-9c39-2bc96d68c1c7)
 
 
+********************Buuuuuuuuuuuuuuuutttttttttttttttttttttttt****************************************
+
+While separating combinational and sequential part, give all if-else cases. otherwise output will go to 'x' .
+
+**Put else case**
+![image](https://github.com/Sourav365/Finite-State-Machine/assets/49667585/46b79678-7b9a-499c-9b54-37edec7e5624)
