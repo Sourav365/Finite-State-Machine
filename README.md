@@ -4,6 +4,7 @@
 
 ## Mealy mchine
 
+### Sequential & Combinational separated 
 If we separate sequential and combinational ckt, Flipflops will be created only for the stages.
 
 output will not be synchronous. If i/p changes, output changes. 
@@ -12,7 +13,7 @@ I/p glitch --> output glitch.
 
 ![image](https://github.com/Sourav365/Finite-State-Machine/assets/49667585/9055eceb-fef9-44e9-98ad-87b8e23ef017)
 
-
+### Sequential & Combinational NOT separated 
 If we don't separate sequential and combinational ckt, Flipflops will be created for the stages and also for output ckt.
 
 ==> More no of flip flops.
@@ -36,12 +37,14 @@ So o/p will also be synchronous for all the cases.
 
 O/p is same for both case
 
+### Sequential & Combinational NOT separated (1-clk delay)
 ![image](https://github.com/Sourav365/Finite-State-Machine/assets/49667585/5b94b92f-d065-467a-a2c9-5cf356de1a37)
 
+### Sequential & Combinational separated 
 ![image](https://github.com/Sourav365/Finite-State-Machine/assets/49667585/8474b0f8-4616-4714-9c39-2bc96d68c1c7)
 
 
-********************Buuuuuuuuuuuuuuuutttttttttttttttttttttttt****************************************
+******************** Buuuuuuuuuuuuuuuutttttttttttttttttttttttt****************************************
 
 While separating combinational and sequential part, give all if-else cases. otherwise output will go to 'x' .
 
