@@ -49,4 +49,14 @@ O/p is same for both case
 While separating combinational and sequential part, give all if-else cases. otherwise output will go to 'x' .
 
 **Put else case**
+
 ![image](https://github.com/Sourav365/Finite-State-Machine/assets/49667585/46b79678-7b9a-499c-9b54-37edec7e5624)
+
+
+## Question
+
+In addition to walking and falling, Lemmings can sometimes be told to do useful things, like dig (it starts digging when dig=1). A Lemming can dig if it is currently walking on ground (ground=1 and not falling), and will continue digging until it reaches the other side (ground=0). At that point, since there is no ground, it will fall (aaah!), then continue walking in its original direction once it hits ground again. As with falling, being bumped while digging has no effect, and being told to dig when falling or when there is no ground is ignored.
+
+![image](https://github.com/Sourav365/Finite-State-Machine/assets/49667585/db1a521e-1666-430a-a07d-f4517c489e5d)
+
+![image](https://github.com/Sourav365/Finite-State-Machine/assets/49667585/3267a125-9426-495d-82bd-a8a6fdbbff2b)
