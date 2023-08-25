@@ -1,6 +1,6 @@
 # Finite-State-Machine
 
-*** [Best see this example](https://github.com/Sourav365/SPI_Protocol_for_FPGA/blob/main/rtl_code/spi_control.v)
+*** [Best see this example For NON-separated MEALY](https://github.com/Sourav365/SPI_Protocol_for_FPGA/blob/main/rtl_code/spi_control.v)
 
 ## Mealy mchine
 
